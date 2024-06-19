@@ -1,3 +1,4 @@
+
 import { lines } from "../../assets";
 
 export const LeftLine = () => {
